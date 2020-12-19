@@ -48,4 +48,4 @@ CheckOut my personal or Blog website  :  [Finding Data](https://web-cpv.ru/)
 [<img align="left" alt="sumit" width="33px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>](aws)
 [<img align="left" alt="sumit" width="33px" src="https://img.icons8.com/color/48/000000/docker.png"/>](docker)
 [<img align="left" alt="sumit" width="33px" src="https://img.icons8.com/fluent/48/000000/github.png"/>](giithub)
-[<img align="left" alt="sumit" width="33px" src="https://img.icons8.com/color/48/000000/rubiks-cube.png"/>](django)
+
