@@ -49,11 +49,12 @@ CheckOut my personal or Blog website  :  [Finding Data](https://web-cpv.ru/)
 [<img align="left" alt="sumit" width="33px" src="https://img.icons8.com/color/48/000000/docker.png"/>](docker)
 [<img align="left" alt="sumit" width="33px" src="https://img.icons8.com/fluent/48/000000/github.png"/>](giithub)
 
-<br />
+<br>
+
 ## About my Github:
-<br />
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=speccy-rom&theme=nord_bright)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=speccy-rom&theme=nord_bright)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=speccy-rom&theme=nord_bright)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=speccy-rom&theme=nord_bright)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=speccy-rom&theme=nord_bright) <br>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=speccy-rom&theme=nord_bright) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=speccy-rom&theme=nord_bright) <br>
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=speccy-rom&theme=nord_bright) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=speccy-rom&theme=nord_bright)
