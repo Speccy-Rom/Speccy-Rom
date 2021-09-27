@@ -67,7 +67,7 @@ CheckOut my personal or Blog website  :  [My Blog](https://web-cpv.ru/)
 **Tools**
 
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
-![Ansible](https://img.shields.io/badge/-Ansible%20IDEA-ffce5a?style=flat-square&logo=Ansible)
+![Ansible](https://img.shields.io/badge/-Ansible-ffce5a?style=flat-square&logo=Ansible)
 ![Postman](https://img.shields.io/badge/Postman-FCA121?style=flat-square&logo=postman)
 ![Travis](https://img.shields.io/badge/-Travis-FCA121?style=flat-square&logo=Travis)
 
@@ -76,31 +76,11 @@ CheckOut my personal or Blog website  :  [My Blog](https://web-cpv.ru/)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![Nginx](https://img.shields.io/badge/-Nginx-029339?style=flat-square&logo=Nginx)
 
 **Learning**
 
 ![GoLANG](https://img.shields.io/badge/-GOLANG-grey?style=flat-square&logo=go)
-
-### Languages and Tools:
-
-[<img align="left" alt="sumit" width="33px" src="https://img.icons8.com/color/64/000000/python.png"/>](python)
-[<img align="left" alt="sumit" width="33px" src="https://img.icons8.com/color/64/000000/html-5.png"/>](html)
-[<img align="left" alt="sumit" width="33px" src="https://img.icons8.com/color/48/000000/css3.png"/>](css)
-[<img align="left" alt="sumit" width="33px" src="https://img.icons8.com/color/48/000000/javascript.png"/>](js)
-[<img align="left" alt="sumit" width="33px" src="https://img.icons8.com/color/48/000000/react-native.png"/>](react)
-[<img align="left" alt="sumit" width="33px" src="https://img.icons8.com/color/48/000000/angularjs.png"/>](angular)
-[<img align="left" alt="sumit" width="33px" src="https://img.icons8.com/color/48/000000/linux.png"/>](linux)
-[<img align="left" alt="sumit" width="33px" src="https://img.icons8.com/color/48/000000/django.png"/>](django)
-[<img align="left" alt="sumit" width="33px" src="https://img.icons8.com/color/48/000000/nginx.png"/>](django)
-[<img align="left" alt="sumit" width="33px" src="https://img.icons8.com/color/48/000000/sql.png"/>](sql)
-[<img align="left" alt="sumit" width="33px" src="https://img.icons8.com/color/48/000000/redis.png"/>](redis)
-[<img align="left" alt="sumit" width="33px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>](mongodb)
-[<img align="left" alt="sumit" width="33px" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>](postgresql)
-[<img align="left" alt="sumit" width="33px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>](aws)
-[<img align="left" alt="sumit" width="33px" src="https://img.icons8.com/color/48/000000/docker.png"/>](docker)
-[<img align="left" alt="sumit" width="33px" src="https://img.icons8.com/fluent/48/000000/github.png"/>](giithub)
-
-<br>
 
 ## About my Github:
 
