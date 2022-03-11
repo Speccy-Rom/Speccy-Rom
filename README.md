@@ -89,3 +89,10 @@ CheckOut my personal or Blog website  :  [My Blog](https://web-cpv.ru/)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=speccy-rom&theme=nord_bright) <br>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=speccy-rom&theme=nord_bright) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=speccy-rom&theme=nord_bright)
+
+## 📈 My GitHub Stats:
+![A+](https://github-readme-stats.vercel.app/api?username=Speccy-rom&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Speccy-rom&layout=compact&hide_border=true)
+
+<!-- from https://github.com/Platane/snk -->
+![Snake Status](./images/github-senavs-snake.svg)
