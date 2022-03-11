@@ -91,4 +91,4 @@ CheckOut my personal or Blog website  :  [My Blog](https://web-cpv.ru/)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=speccy-rom&theme=nord_bright)
 
 <!-- from https://github.com/Platane/snk -->
-![Snake Status](./images/github-senavs-snake.svg)
+![Snake Status](./images/github-speccy-snake.svg)
