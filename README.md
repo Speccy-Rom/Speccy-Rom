@@ -12,7 +12,7 @@
 - 🤔 I have been developing web apps on django/flask for more than 2 years.
 - 👯 I'm learning new things everyday.
 - 📫 How to reach me: mail me @ Speccy.Rom@gmail.com
-- ⚡ Fun fact: I love SPEEDCUBING <img src="https://media.giphy.com/media/X4SS63h7k5umY/giphy.gif" width="13px">.
+- ⚡ Fun fact: I love SPEEDCUBING <img src="https://media.giphy.com/media/kFuavIYvRQZGg/giphy.gif" width="13px">.
 
 CheckOut my personal or Blog website  :  [My Blog](https://web-cpv.ru/)
 
