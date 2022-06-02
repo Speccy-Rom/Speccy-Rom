@@ -1,6 +1,6 @@
 [<img align="right" alt="sumit" width="34px" src="https://img.icons8.com/bubbles/50/000000/like.png"/>](https://Speccy-Rom.github.io)
 
-### Hi there, I'm Roman - aka Speccy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="13px">
+### Hi there, I'm Roman - aka Speccy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 
  
 <img align="right" src="https://github.com/Speccy-Rom/Speccy-Rom/blob/main/illustration.png" width="300"/>
@@ -12,7 +12,7 @@
 - 🤔 I have been developing web apps on fastapi/aiohttp/django/flask for more than 3 years.
 - 👯 I'm learning new things everyday.
 - 📫 How to reach me: mail me @ Speccy.Rom@gmail.com
-- ⚡ Fun fact: I love SPEEDCUBING <img src="https://media.giphy.com/media/5qDI4MXF3gOmGuFUCP/giphy.gif" width="13px">.
+- ⚡ Fun fact: I love SPEEDCUBING <img src="https://media.giphy.com/media/5qDI4MXF3gOmGuFUCP/giphy.gif" width="33" height="33">.
 
 CheckOut my personal or Blog website  :  [My Blog](https://web-cpv.ru/)
 
