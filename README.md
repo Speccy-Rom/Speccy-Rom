@@ -5,10 +5,11 @@
  
 <img align="right" src="https://github.com/Speccy-Rom/Speccy-Rom/blob/main/illustration.png" width="300"/>
 
-### I'm a Software Engineer Python / Back-end Developer !!!
+### I'm a Software Engineer Golang && Python / Back-end Developer !!!
 
 - 🔭 I’m currently working on something cool.
-- 🌱 I have been working with python for more than 4 years.
+- 🌱 I have been working with Python for more than 5 years.
+- 🌱 I have been working with Golang for more than 1 years.
 - 🤔 I have been developing web apps on fastapi/aiohttp/django/flask for more than 3 years.
 - 👯 I'm learning new things everyday.
 - 📫 How to reach me: mail me @ Speccy.Rom@gmail.com
@@ -26,14 +27,13 @@ CheckOut my personal or Blog website  :  [My Blog](https://web-cpv.ru/)
 [<img align="left" alt="sumit" width="40px" src="https://img.icons8.com/carbon-copy/100/000000/linkedin.png"/>](https://inblog.in/@speccyrom)
 [<img align="left" alt="sumit" width="34px" src="https://img.icons8.com/windows/32/000000/kaggle.png"/>](https://www.kaggle.com/speccyrom)
 
-
 <br />
 <br />
 
 ## Technology stack
 
 **Back-end**
-
+![GoLANG](https://img.shields.io/badge/-GOLANG-grey?style=flat-square&logo=go)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
 ![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
@@ -80,7 +80,7 @@ CheckOut my personal or Blog website  :  [My Blog](https://web-cpv.ru/)
 
 **Learning**
 
-![GoLANG](https://img.shields.io/badge/-GOLANG-grey?style=flat-square&logo=go)
+![Rust](https://img.shields.io/badge/-Rust-grey?style=flat-square&logo=rust)
 
 ## About my Github:
 
@@ -89,6 +89,13 @@ CheckOut my personal or Blog website  :  [My Blog](https://web-cpv.ru/)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=speccy-rom&theme=nord_bright) <br>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=speccy-rom&theme=nord_bright) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=speccy-rom&theme=nord_bright)
+
+
+[![](https://raw.githubusercontent.com/speccy-rom/github-profile-summary-cards-example/master/profile-summary-card-output/gruvbox/0-profile-details.svg)](https://github.com/speccy-rom/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/speccy-rom/github-profile-summary-cards-example/master/profile-summary-card-output/gruvbox/1-repos-per-language.svg)](https://github.com/speccy-rom/github-profile-summary-cards) [![](https://raw.githubusercontent.com/speccy-rom/github-profile-summary-cards-example/master/profile-summary-card-output/gruvbox/2-most-commit-language.svg)](https://github.com/speccy-rom/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/speccy-rom/github-profile-summary-cards-example/master/profile-summary-card-output/gruvbox/3-stats.svg)](https://github.com/speccy-rom/github-profile-summary-cards) [![](https://raw.githubusercontent.com/speccy-rom/github-profile-summary-cards-example/master/profile-summary-card-output/gruvbox/4-productive-time.svg)](https://github.com/speccy-rom/github-profile-summary-cards)
+
+
 
 <!-- from https://github.com/Platane/snk -->
 ![Snake Status](./images/github-speccy-snake.svg)
