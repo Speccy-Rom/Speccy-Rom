@@ -33,6 +33,7 @@ CheckOut my personal or Blog website  :  [My Blog](https://web-cpv.ru/)
 ## Technology stack
 
 **Back-end**
+
 ![GoLANG](https://img.shields.io/badge/-GOLANG-grey?style=flat-square&logo=go)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
@@ -90,11 +91,11 @@ CheckOut my personal or Blog website  :  [My Blog](https://web-cpv.ru/)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=speccy-rom&theme=nord_bright) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=speccy-rom&theme=nord_bright)
 
-
-[![](https://raw.githubusercontent.com/speccy-rom/github-profile-summary-cards-example/master/profile-summary-card-output/gruvbox/0-profile-details.svg)](https://github.com/speccy-rom/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/speccy-rom/github-profile-summary-cards-example/master/profile-summary-card-output/gruvbox/1-repos-per-language.svg)](https://github.com/speccy-rom/github-profile-summary-cards) [![](https://raw.githubusercontent.com/speccy-rom/github-profile-summary-cards-example/master/profile-summary-card-output/gruvbox/2-most-commit-language.svg)](https://github.com/speccy-rom/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/speccy-rom/github-profile-summary-cards-example/master/profile-summary-card-output/gruvbox/3-stats.svg)](https://github.com/speccy-rom/github-profile-summary-cards) [![](https://raw.githubusercontent.com/speccy-rom/github-profile-summary-cards-example/master/profile-summary-card-output/gruvbox/4-productive-time.svg)](https://github.com/speccy-rom/github-profile-summary-cards)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
+  <img alt="github-snake" src="github-snake.svg">
+</picture>
 
 
 <!-- from https://github.com/Platane/snk -->
