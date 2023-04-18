@@ -8,8 +8,8 @@
 ### I'm a Software Engineer Golang && Python / Back-end Developer !!!
 
 - 🔭 I’m currently working on something cool.
-- 🌱 I have been working with Python for more than 5 years.
-- 🌱 I have been working with Golang for more than 1 years.
+- 🌱 I have been working with Python for more than 6 years.
+- 🌱 I have been working with Golang for more than 2 years.
 - 🤔 I have been developing web apps on fastapi/aiohttp/django/flask for more than 3 years.
 - 👯 I'm learning new things everyday.
 - 📫 How to reach me: mail me @ Speccy.Rom@gmail.com
@@ -29,7 +29,14 @@ CheckOut my personal or Blog website  :  [My Blog](https://web-cpv.ru/)
 
 <br />
 <br />
-
+## LeetCode Solutions
+<h4><a href="https://leetcode.com/Speccy-Rom/">Leetcode aka Speccy-Rom</a></h4>
+<img src="https://leetcode.com/static/images/badges/dcc-2023-1.png" width="75" height="75" />
+<img src="https://leetcode.com/static/images/badges/dcc-2023-2.png" width="75" height="75" />
+<img src="https://leetcode.com/static/images/badges/dcc-2023-3.png" width="75" height="75" />
+<img src="https://leetcode.com/static/images/badges/dcc-2023-4.png" width="75" height="75" />
+<br />
+<br />
 ## Technology stack
 
 **Back-end**
