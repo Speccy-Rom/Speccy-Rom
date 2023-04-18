@@ -31,19 +31,17 @@ CheckOut my personal or Blog website  :  [My Blog](https://web-cpv.ru/)
 <br />
 
 ### LeetCode Solutions:
-<div align="right">
-<a href="https://walkccc.github.io/LeetCode/"><img src="https://i.imgur.com/IsS5xkZ.png" width="52" title="LeetCode" alt="LeetCode"></a>
+<div align="left">
+<a href="https://walkccc.github.io/LeetCode/"><img src="https://i.imgur.com/IsS5xkZ.png" width="150" title="LeetCode" alt="LeetCode"></a>
 <h4><a href="https://leetcode.com/Speccy-Rom/">Leetcode aka Speccy-Rom</a></h4>
-<img src="https://leetcode.com/static/images/badges/dcc-2023-1.png" width="52" height="52" />
-<img src="https://leetcode.com/static/images/badges/dcc-2023-2.png" width="52" height="52" />
-<img src="https://leetcode.com/static/images/badges/dcc-2023-3.png" width="52" height="52" />
-<img src="https://leetcode.com/static/images/badges/dcc-2023-4.png" width="52" height="52" />
+<img src="https://leetcode.com/static/images/badges/dcc-2023-1.png" width="75" height="75" />
+<img src="https://leetcode.com/static/images/badges/dcc-2023-2.png" width="75" height="75" />
+<img src="https://leetcode.com/static/images/badges/dcc-2023-3.png" width="75" height="75" />
+<img src="https://leetcode.com/static/images/badges/dcc-2023-4.png" width="75" height="75" />
 </div>
-
 <br />
 <br />
-
-### Technology stack
+## Technology stack
 
 **Back-end**
 
