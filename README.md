@@ -8,9 +8,9 @@
 ### I'm a Software Engineer Golang && Python / Back-end Developer !!!
 
 - 🔭 I’m currently working on something cool.
-- 🌱 I have been working with Python for more than 6 years.
-- 🌱 I have been working with Golang for more than 2 years.
-- 🤔 I have been developing web apps on fastapi/aiohttp/django/flask for more than 3 years.
+- 🌱 I have been working with Python for more than 6+ years.
+- 🌱 I have been working with Golang for more than 2+ years.
+- 🤔 I have been developing web apps on fastapi/aiohttp/django/flask for more than 4+ years.
 - 👯 I'm learning new things everyday.
 - 📫 How to reach me: mail me @ Speccy.Rom@gmail.com
 - ⚡ Fun fact: I love SPEEDCUBING --->  <img src="https://media.giphy.com/media/5qDI4MXF3gOmGuFUCP/giphy.gif" width="43" height="43">
@@ -41,6 +41,7 @@ CheckOut my personal or Blog website  :  [My Blog](https://web-cpv.ru/)
 <img src="https://leetcode.com/static/images/badges/dcc-2023-5.png" width="75" height="75" />
 <img src="https://leetcode.com/static/images/badges/dcc-2023-6.png" width="75" height="75" />
 <img src="https://leetcode.com/static/images/badges/dcc-2023-7.png" width="75" height="75" />
+<img src="https://leetcode.com/static/images/badges/dcc-2023-8.png" width="75" height="75" />
 </div>
 
 <br />
