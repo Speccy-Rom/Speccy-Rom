@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on something cool.
 - 🌱 I have been working with Python for more than 6+ years.
-- 🌱 I have been working with Golang for more than 2+ years.
+- 🌱 I have been working with Golang for more than 3 years.
 - 🤔 I have been developing web apps on fastapi/aiohttp/django/flask for more than 4+ years.
 - 👯 I'm learning new things everyday.
 - 📫 How to reach me: mail me @ Speccy.Rom@gmail.com
