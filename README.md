@@ -19,8 +19,8 @@ CheckOut my personal or Blog website  :  [My Blog](https://web-cpv.ru/)
 
 ### Connect with me :
 
-[<img align="left" alt="sumit" width="40px" src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"/>](https://hh.ru/resume/4a35d0b9ff0843acf50039ed1f644e61787345)
-[<img align="left" alt="sumit" width="40px" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.cn/in/roman-spiridonov-8b75891a2/)
+[<img align="left" alt="sumit" width="40px" src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"/>](https://career.habr.com/speccy13))
+[<img align="left" alt="sumit" width="40px" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>]([https://www.linkedin.cn/in/roman-spiridonov-8b75891a2/)
 [<img align="left" alt="sumit" width="40px" src="https://img.icons8.com/bubbles/50/000000/github.png"/>](https://github.com/Speccy-Rom)
 [<img align="left" alt="sumit" width="40px" src="https://img.icons8.com/bubbles/50/000000/youtube-play.png"/>](https://www.youtube.com/channel/UClJzWfGWuGJL2t-3dYKcHTA)
 [<img align="left" alt="sumit" width="40px" src="https://img.icons8.com/bubbles/50/000000/medium-new.png"/>](https://medium.com/@speccy.rom)
