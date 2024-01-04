@@ -31,10 +31,13 @@ CheckOut my personal or Blog website  :  [My Blog](https://web-cpv.ru/)
 <br />
 
 ### LeetCode Solutions:
-#### 2023 year
 <div align="left">
 <img src="https://i.imgur.com/IsS5xkZ.png" width="75" title="LeetCode" alt="LeetCode" />
 <h5><a href="https://leetcode.com/Speccy-Rom/">Leetcode aka Speccy-Rom</a></h5>
+ </div>
+ 
+#### 2023 year
+<div align="left">
 <img src="https://leetcode.com/static/images/badges/dcc-2023-1.png" width="75" height="75" />
 <img src="https://leetcode.com/static/images/badges/dcc-2023-2.png" width="75" height="75" />
 <img src="https://leetcode.com/static/images/badges/dcc-2023-3.png" width="75" height="75" />
@@ -53,9 +56,8 @@ CheckOut my personal or Blog website  :  [My Blog](https://web-cpv.ru/)
 </div>
 
 #### 2024 year
-
 <div align="left">
- <img src="https://leetcode.com/static/images/badges/dcc-2024-1.png" width="75" height="75" />
+<img src="https://leetcode.com/static/images/badges/dcc-2024-1.png" width="75" height="75" />
 </div>
  
 <br />
