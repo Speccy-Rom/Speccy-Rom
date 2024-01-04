@@ -31,6 +31,7 @@ CheckOut my personal or Blog website  :  [My Blog](https://web-cpv.ru/)
 <br />
 
 ### LeetCode Solutions:
+
 <div align="left">
 <img src="https://i.imgur.com/IsS5xkZ.png" width="75" title="LeetCode" alt="LeetCode" />
 <h5><a href="https://leetcode.com/Speccy-Rom/">Leetcode aka Speccy-Rom</a></h5>
@@ -49,7 +50,8 @@ CheckOut my personal or Blog website  :  [My Blog](https://web-cpv.ru/)
 <img src="https://assets.leetcode.com/static_assets/marketing/lg2023.png" width="75" height="75" />
 <img src="https://assets.leetcode.com/static_assets/marketing/lg100.png" width="75" height="75" />
 <img src="https://assets.leetcode.com/static_assets/marketing/lg50.png" width="75" height="75" />
-
+#### 2024 year
+ <img src="https://leetcode.com/static/images/badges/dcc-2024-1.png" width="75" height="75" />
 </div>
 
 <br />
