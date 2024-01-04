@@ -19,7 +19,7 @@ CheckOut my personal or Blog website  :  [My Blog](https://web-cpv.ru/)
 
 ### Connect with me :
 
-[<img align="left" alt="sumit" width="40px" src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"/>](https://career.habr.com/speccy13))
+[<img align="left" alt="sumit" width="40px" src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"/>](https://career.habr.com/speccy13)
 [<img align="left" alt="sumit" width="40px" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>]([https://www.linkedin.cn/in/roman-spiridonov-8b75891a2/)
 [<img align="left" alt="sumit" width="40px" src="https://img.icons8.com/bubbles/50/000000/github.png"/>](https://github.com/Speccy-Rom)
 [<img align="left" alt="sumit" width="40px" src="https://img.icons8.com/bubbles/50/000000/youtube-play.png"/>](https://www.youtube.com/channel/UClJzWfGWuGJL2t-3dYKcHTA)
@@ -31,7 +31,7 @@ CheckOut my personal or Blog website  :  [My Blog](https://web-cpv.ru/)
 <br />
 
 ### LeetCode Solutions:
-
+#### 2023 year
 <div align="left">
 <img src="https://i.imgur.com/IsS5xkZ.png" width="75" title="LeetCode" alt="LeetCode" />
 <h5><a href="https://leetcode.com/Speccy-Rom/">Leetcode aka Speccy-Rom</a></h5>
@@ -50,10 +50,14 @@ CheckOut my personal or Blog website  :  [My Blog](https://web-cpv.ru/)
 <img src="https://assets.leetcode.com/static_assets/marketing/lg2023.png" width="75" height="75" />
 <img src="https://assets.leetcode.com/static_assets/marketing/lg100.png" width="75" height="75" />
 <img src="https://assets.leetcode.com/static_assets/marketing/lg50.png" width="75" height="75" />
-#### 2024 year
- <img src="https://leetcode.com/static/images/badges/dcc-2024-1.png" width="75" height="75" />
 </div>
 
+#### 2024 year
+
+<div align="left">
+ <img src="https://leetcode.com/static/images/badges/dcc-2024-1.png" width="75" height="75" />
+</div>
+ 
 <br />
 <br />
 
