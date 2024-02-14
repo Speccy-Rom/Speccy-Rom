@@ -58,6 +58,7 @@ CheckOut my personal or Blog website  :  [My Blog](https://web-cpv.ru/)
 #### 2024 year
 <div align="left">
 <img src="https://leetcode.com/static/images/badges/dcc-2024-1.png" width="75" height="75" />
+<img src="https://leetcode.com/static/images/badges/dcc-2024-2.png" width="75" height="75" />
 </div>
  
 <br />
