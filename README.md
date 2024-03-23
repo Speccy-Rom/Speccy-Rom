@@ -59,6 +59,7 @@ CheckOut my personal or Blog website  :  [My Blog](https://web-cpv.ru/)
 <div align="left">
 <img src="https://leetcode.com/static/images/badges/dcc-2024-1.png" width="75" height="75" />
 <img src="https://leetcode.com/static/images/badges/dcc-2024-2.png" width="75" height="75" />
+<img src="https://leetcode.com/static/images/badges/dcc-2024-3.png" width="75" height="75" />
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" width="75" height="75" />
 
 </div>
