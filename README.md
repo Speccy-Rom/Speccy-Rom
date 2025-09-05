@@ -72,6 +72,8 @@ CheckOut my personal or Blog website  :  [My Blog](https://web-cpv.ru/)
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" width="75" height="75" />
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-lg.png" width="75" height="75" />
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-200-lg.png" width="75" height="75" />
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-365-lg.png" width="75" height="75" />
+<img src="https://assets.leetcode.com/static_assets/marketing/lg2024.png" width="75" height="75" />
 
 
 #### 2025 year
@@ -85,8 +87,10 @@ CheckOut my personal or Blog website  :  [My Blog](https://web-cpv.ru/)
 <img src="https://leetcode.com/static/images/badges/dcc-2025-6.png" width="75" height="75" />
 <img src="https://leetcode.com/static/images/badges/dcc-2025-7.png" width="75" height="75" />
 <img src="https://leetcode.com/static/images/badges/dcc-2025-8.png" width="75" height="75" />
+<img src="https://assets.leetcode.com/static_assets/marketing/2025-50-lg.png" width="75" height="75" />
+<img src="https://assets.leetcode.com/static_assets/marketing/2025-100-lg.png" width="75" height="75" />
+<img src="https://assets.leetcode.com/static_assets/marketing/2025-200-lg.png" width="75" height="75" />
 
-<img src="https://leetcode.com/static/images/badges/365_new.png" width="75" height="75" />
 </div>
  
 <br />
