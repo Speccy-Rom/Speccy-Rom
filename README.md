@@ -89,8 +89,8 @@ CheckOut my personal or Blog website  :  [My Blog](https://web-cpv.ru/)
 <img src="https://leetcode.com/static/images/badges/dcc-2025-6.png" width="75" height="75" />
 <img src="https://leetcode.com/static/images/badges/dcc-2025-7.png" width="75" height="75" />
 <img src="https://leetcode.com/static/images/badges/dcc-2025-8.png" width="75" height="75" />
-<img src="https://assets.leetcode.com/static_assets/others/lg50.png" width="75" height="75" />
-<img src="https://assets.leetcode.com/static_assets/others/lg100.png" width="75" height="75" />
+<img src="https://assets.leetcode.com/static_assets/others/lg2550.png" width="75" height="75" />
+<img src="https://assets.leetcode.com/static_assets/others/lg25100.png" width="75" height="75" />
 <img src="https://assets.leetcode.com/static_assets/others/lg200.png" width="75" height="75" />
 
 
