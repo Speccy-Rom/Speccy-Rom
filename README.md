@@ -50,9 +50,11 @@ CheckOut my personal or Blog website  :  [My Blog](https://web-cpv.ru/)
 <img src="https://leetcode.com/static/images/badges/dcc-2023-10.png" width="75" height="75" />
 <img src="https://leetcode.com/static/images/badges/dcc-2023-11.png" width="75" height="75" />
 <img src="https://leetcode.com/static/images/badges/dcc-2023-12.png" width="75" height="75" />
-<img src="https://assets.leetcode.com/static_assets/marketing/lg2023.png" width="75" height="75" />
-<img src="https://assets.leetcode.com/static_assets/marketing/lg100.png" width="75" height="75" />
 <img src="https://assets.leetcode.com/static_assets/marketing/lg50.png" width="75" height="75" />
+<img src="https://assets.leetcode.com/static_assets/marketing/lg100.png" width="75" height="75" />
+<img src="https://assets.leetcode.com/static_assets/marketing/lg200.png" width="75" height="75" />
+<img src="https://assets.leetcode.com/static_assets/marketing/lg365.png" width="75" height="75" /
+<img src="https://assets.leetcode.com/static_assets/marketing/lg2023.png" width="75" height="75" />
 </div>
 
 #### 2024 year
@@ -88,9 +90,9 @@ CheckOut my personal or Blog website  :  [My Blog](https://web-cpv.ru/)
 <img src="https://leetcode.com/static/images/badges/dcc-2025-6.png" width="75" height="75" />
 <img src="https://leetcode.com/static/images/badges/dcc-2025-7.png" width="75" height="75" />
 <img src="https://leetcode.com/static/images/badges/dcc-2025-8.png" width="75" height="75" />
-<img src="https://assets.leetcode.com/static_assets/marketing/2025-50-lg.png" width="75" height="75" />
-<img src="https://assets.leetcode.com/static_assets/marketing/2025-100-lg.png" width="75" height="75" />
-<img src="https://assets.leetcode.com/static_assets/marketing/2025-200-lg.png" width="75" height="75" />
+<img src="https://assets.leetcode.com/static_assets/others/lg50.png" width="75" height="75" />
+<img src="https://assets.leetcode.com/static_assets/others/lg100.png" width="75" height="75" />
+<img src="https://assets.leetcode.com/static_assets/others/lg200.png" width="75" height="75" />
 
 
 </div>
