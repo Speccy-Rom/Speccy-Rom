@@ -73,6 +73,7 @@ CheckOut my personal or Blog website  :  [My Blog](https://web-cpv.ru/)
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-lg.png" width="75" height="75" />
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-200-lg.png" width="75" height="75" />
 <img src="https://assets.leetcode.com/static_assets/marketing/lg365.png" width="75" height="75" />
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-lg.png" width="75" height="75" />
 <img src="https://assets.leetcode.com/static_assets/marketing/lg500.png" width="75" height="75" />
 
 
