@@ -53,7 +53,7 @@ CheckOut my personal or Blog website  :  [My Blog](https://web-cpv.ru/)
 <img src="https://assets.leetcode.com/static_assets/marketing/lg50.png" width="75" height="75" />
 <img src="https://assets.leetcode.com/static_assets/marketing/lg100.png" width="75" height="75" />
 <img src="https://assets.leetcode.com/static_assets/marketing/lg200.png" width="75" height="75" />
-<img src="https://assets.leetcode.com/static_assets/marketing/lg365.png" width="75" height="75" /
+<img src="https://assets.leetcode.com/static_assets/marketing/lg365.png" width="75" height="75" />
 <img src="https://assets.leetcode.com/static_assets/marketing/lg2023.png" width="75" height="75" />
 </div>
 
