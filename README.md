@@ -99,6 +99,7 @@ CheckOut my personal or Blog website  :  [My Blog](https://web-cpv.ru/)
 
 #### Submission Days
 </div>
+<div align="left">
 <img src="https://assets.leetcode.com/static_assets/marketing/lg1k.png" width="75" height="75" />
 <img src="https://assets.leetcode.com/static_assets/marketing/lg500.png" width="75" height="75" />
 <img src="https://assets.leetcode.com/static_assets/marketing/lg365.png" width="75" height="75" />
