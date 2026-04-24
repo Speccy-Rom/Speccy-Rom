@@ -8,8 +8,8 @@
 ### I'm a Software Engineer Golang && Python / Back-end Developer !!!
 
 - 🔭 I’m currently working on something cool.
-- 🌱 I have been working with Python for more than 6+ years.
-- 🌱 I have been working with Golang for more than 3 years.
+- 🌱 I have been working with Python for more than 7+ years.
+- 🌱 I have been working with Golang for more than 5+ years.
 - 🤔 I have been developing web apps on fastapi/aiohttp/django/flask for more than 5+ years.
 - 👯 I'm learning new things everyday.
 - 📫 How to reach me: mail me @ Speccy.Rom@gmail.com
@@ -17,10 +17,71 @@
 
 CheckOut my personal or Blog website  :  [My Blog](https://web-cpv.ru/)
 
+### Backend Engineer Profile
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Backend-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go Backend" />
+  <img src="https://img.shields.io/badge/Backend-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Backend" />
+  <img src="https://img.shields.io/badge/System-Design-111827?style=for-the-badge" alt="System Design" />
+  <img src="https://img.shields.io/badge/Mentoring-500%2B_interviews-F59E0B?style=for-the-badge" alt="Mentoring" />
+</p>
+
+<table>
+  <tr>
+    <td width="50%">
+      <strong>Engineering focus</strong><br />
+      Software Engineer / Backend Developer focused on Go and Python services, APIs, microservices, system design, and maintainable delivery.
+    </td>
+    <td width="50%">
+      <strong>Commercial experience</strong><br />
+      12+ years in IT, including 7+ years with Python and 5+ years with Go in product and outsourcing teams.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <strong>Leadership and mentoring</strong><br />
+      500+ technical interviews across Go, Python, and System Design; onboarding and mentoring experience; acted as backend team lead for 15 developers.
+    </td>
+    <td width="50%">
+      <strong>Education and community</strong><br />
+      Developing a Go course for X5 Tech Digital Academy and contributed expertise to Yandex Practicum research for the Go developer track.
+    </td>
+  </tr>
+</table>
+
+### Backend Toolbox
+
+<table>
+  <tr>
+    <td><strong>Go</strong></td>
+    <td>Gin, Fasthttp, Cobra, Zap, GORM, Go-Kit, rpcx, Testify, concurrency, runtime, scheduler, memory model, GC, escape analysis, pprof.</td>
+  </tr>
+  <tr>
+    <td><strong>Python</strong></td>
+    <td>FastAPI, AIOHTTP, Django, DRF, Flask, Pydantic, SQLAlchemy, Alembic, Celery, asyncio, pytest, typing, MyPy, Poetry.</td>
+  </tr>
+  <tr>
+    <td><strong>Architecture</strong></td>
+    <td>Clean Architecture, SOLID, GRASP, REST API design, KISS, DRY, system design, distributed systems, high-load backend services.</td>
+  </tr>
+  <tr>
+    <td><strong>Infrastructure</strong></td>
+    <td>Docker, Docker Compose, GitHub Actions, GitLab CI, Nomad, Consul, Linux, Bash, Keycloak, production delivery pipelines.</td>
+  </tr>
+  <tr>
+    <td><strong>Data and messaging</strong></td>
+    <td>PostgreSQL, MySQL, MariaDB, ClickHouse, MongoDB, Elasticsearch, Redis, Kafka, RabbitMQ, NATS, transactions, indexes, replication, query profiling.</td>
+  </tr>
+</table>
+
+### Current Interests
+
+Go in production, Rust, strict typing, functional programming ideas, distributed systems, backend performance, and pragmatic engineering processes.
+
 ### Connect with me :
 
 [<img align="left" alt="sumit" width="40px" src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"/>](https://career.habr.com/speccy13)
-[<img align="left" alt="sumit" width="40px" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>]([https://www.linkedin.cn/in/roman-spiridonov-8b75891a2/)
+[<img align="left" alt="sumit" width="40px" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.cn/in/roman-spiridonov-8b75891a2/)
 [<img align="left" alt="sumit" width="40px" src="https://img.icons8.com/bubbles/50/000000/github.png"/>](https://github.com/Speccy-Rom)
 [<img align="left" alt="sumit" width="40px" src="https://img.icons8.com/bubbles/50/000000/youtube-play.png"/>](https://www.youtube.com/channel/UClJzWfGWuGJL2t-3dYKcHTA)
 [<img align="left" alt="sumit" width="40px" src="https://img.icons8.com/bubbles/50/000000/medium-new.png"/>](https://medium.com/@speccy.rom)
