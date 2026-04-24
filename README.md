@@ -234,11 +234,29 @@ Go in production, Rust, strict typing, functional programming ideas, distributed
 
 ## About my Github:
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=speccy-rom&theme=nord_bright) <br>
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=speccy-rom&theme=nord_bright) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=speccy-rom&theme=nord_bright) <br>
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=speccy-rom&theme=nord_bright) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=speccy-rom&theme=nord_bright)
+<table>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=speccy-rom&theme=nord_bright" width="100%" alt="GitHub profile details" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=speccy-rom&theme=nord_bright" width="100%" alt="Top languages by repository" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=speccy-rom&theme=nord_bright" width="100%" alt="Top languages by commit" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=speccy-rom&theme=nord_bright" width="100%" alt="GitHub statistics" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=speccy-rom&theme=nord_bright" width="100%" alt="GitHub productive time" />
+    </td>
+  </tr>
+</table>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
