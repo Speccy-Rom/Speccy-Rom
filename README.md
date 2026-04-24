@@ -234,29 +234,19 @@ Go in production, Rust, strict typing, functional programming ideas, distributed
 
 ## About my Github:
 
-<table width="100%" align="center">
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=speccy-rom&theme=nord_bright" width="100%" alt="GitHub profile details" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=speccy-rom&theme=nord_bright" width="100%" alt="Top languages by repository" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=speccy-rom&theme=nord_bright" width="100%" alt="Top languages by commit" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=speccy-rom&theme=nord_bright" width="100%" alt="GitHub statistics" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=speccy-rom&theme=nord_bright" width="100%" alt="GitHub productive time" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=speccy-rom&theme=nord_bright" width="100%" alt="GitHub profile details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=speccy-rom&theme=nord_bright" width="49%" alt="Top languages by repository" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=speccy-rom&theme=nord_bright" width="49%" alt="Top languages by commit" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=speccy-rom&theme=nord_bright" width="49%" alt="GitHub statistics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=speccy-rom&theme=nord_bright" width="49%" alt="GitHub productive time" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
