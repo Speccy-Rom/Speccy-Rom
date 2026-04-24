@@ -36,84 +36,81 @@ CheckOut my personal or Blog website  :  [My Blog](https://web-cpv.ru/)
 <h5><a href="https://leetcode.com/Speccy-Rom/">Leetcode aka Speccy-Rom</a></h5>
  </div>
  
-#### 2023 year
-<div align="left">
-<img src="https://leetcode.com/static/images/badges/dcc-2023-1.png" width="75" height="75" />
-<img src="https://leetcode.com/static/images/badges/dcc-2023-2.png" width="75" height="75" />
-<img src="https://leetcode.com/static/images/badges/dcc-2023-3.png" width="75" height="75" />
-<img src="https://leetcode.com/static/images/badges/dcc-2023-4.png" width="75" height="75" />
-<img src="https://leetcode.com/static/images/badges/dcc-2023-5.png" width="75" height="75" />
-<img src="https://leetcode.com/static/images/badges/dcc-2023-6.png" width="75" height="75" />
-<img src="https://leetcode.com/static/images/badges/dcc-2023-7.png" width="75" height="75" />
-<img src="https://leetcode.com/static/images/badges/dcc-2023-8.png" width="75" height="75" />
-<img src="https://leetcode.com/static/images/badges/dcc-2023-9.png" width="75" height="75" />
-<img src="https://leetcode.com/static/images/badges/dcc-2023-10.png" width="75" height="75" />
-<img src="https://leetcode.com/static/images/badges/dcc-2023-11.png" width="75" height="75" />
-<img src="https://leetcode.com/static/images/badges/dcc-2023-12.png" width="75" height="75" />
-<img src="https://assets.leetcode.com/static_assets/marketing/lg50.png" width="75" height="75" />
-<img src="https://assets.leetcode.com/static_assets/marketing/lg100.png" width="75" height="75" />
-<img src="https://assets.leetcode.com/static_assets/marketing/lg365.png" width="75" height="75" />
-<img src="https://assets.leetcode.com/static_assets/marketing/lg2023.png" width="75" height="75" />
-</div>
+<h4>2023 year</h4>
+<p align="left">
+  <img src="https://leetcode.com/static/images/badges/dcc-2023-1.png" width="75" height="75" />
+  <img src="https://leetcode.com/static/images/badges/dcc-2023-2.png" width="75" height="75" />
+  <img src="https://leetcode.com/static/images/badges/dcc-2023-3.png" width="75" height="75" />
+  <img src="https://leetcode.com/static/images/badges/dcc-2023-4.png" width="75" height="75" />
+  <img src="https://leetcode.com/static/images/badges/dcc-2023-5.png" width="75" height="75" />
+  <img src="https://leetcode.com/static/images/badges/dcc-2023-6.png" width="75" height="75" />
+  <img src="https://leetcode.com/static/images/badges/dcc-2023-7.png" width="75" height="75" />
+  <img src="https://leetcode.com/static/images/badges/dcc-2023-8.png" width="75" height="75" />
+  <img src="https://leetcode.com/static/images/badges/dcc-2023-9.png" width="75" height="75" />
+  <img src="https://leetcode.com/static/images/badges/dcc-2023-10.png" width="75" height="75" />
+  <img src="https://leetcode.com/static/images/badges/dcc-2023-11.png" width="75" height="75" />
+  <img src="https://leetcode.com/static/images/badges/dcc-2023-12.png" width="75" height="75" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/lg50.png" width="75" height="75" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/lg100.png" width="75" height="75" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/lg365.png" width="75" height="75" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/lg2023.png" width="75" height="75" />
+</p>
 
-#### 2024 year
-<div align="left">
-<img src="https://leetcode.com/static/images/badges/dcc-2024-1.png" width="75" height="75" />
-<img src="https://leetcode.com/static/images/badges/dcc-2024-2.png" width="75" height="75" />
-<img src="https://leetcode.com/static/images/badges/dcc-2024-3.png" width="75" height="75" />
-<img src="https://leetcode.com/static/images/badges/dcc-2024-4.png" width="75" height="75" />
-<img src="https://leetcode.com/static/images/badges/dcc-2024-5.png" width="75" height="75" />
-<img src="https://leetcode.com/static/images/badges/dcc-2024-6.png" width="75" height="75" />
-<img src="https://leetcode.com/static/images/badges/dcc-2024-7.png" width="75" height="75" />
-<img src="https://leetcode.com/static/images/badges/dcc-2024-8.png" width="75" height="75" />
-<img src="https://leetcode.com/static/images/badges/dcc-2024-9.png" width="75" height="75" />
-<img src="https://leetcode.com/static/images/badges/dcc-2024-10.png" width="75" height="75" />
-<img src="https://leetcode.com/static/images/badges/dcc-2024-11.png" width="75" height="75" />
-<img src="https://leetcode.com/static/images/badges/dcc-2024-12.png" width="75" height="75" />
-<img src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" width="75" height="75" />
-<img src="https://assets.leetcode.com/static_assets/marketing/2024-100-lg.png" width="75" height="75" />
-<img src="https://assets.leetcode.com/static_assets/marketing/2024-200-lg.png" width="75" height="75" />
-<img src="https://assets.leetcode.com/static_assets/marketing/lg365.png" width="75" height="75" />
-<img src="https://assets.leetcode.com/static_assets/marketing/2024-lg.png" width="75" height="75" />
-<img src="https://assets.leetcode.com/static_assets/marketing/lg500.png" width="75" height="75" />
-</div>
+<h4>2024 year</h4>
+<p align="left">
+  <img src="https://leetcode.com/static/images/badges/dcc-2024-1.png" width="75" height="75" />
+  <img src="https://leetcode.com/static/images/badges/dcc-2024-2.png" width="75" height="75" />
+  <img src="https://leetcode.com/static/images/badges/dcc-2024-3.png" width="75" height="75" />
+  <img src="https://leetcode.com/static/images/badges/dcc-2024-4.png" width="75" height="75" />
+  <img src="https://leetcode.com/static/images/badges/dcc-2024-5.png" width="75" height="75" />
+  <img src="https://leetcode.com/static/images/badges/dcc-2024-6.png" width="75" height="75" />
+  <img src="https://leetcode.com/static/images/badges/dcc-2024-7.png" width="75" height="75" />
+  <img src="https://leetcode.com/static/images/badges/dcc-2024-8.png" width="75" height="75" />
+  <img src="https://leetcode.com/static/images/badges/dcc-2024-9.png" width="75" height="75" />
+  <img src="https://leetcode.com/static/images/badges/dcc-2024-10.png" width="75" height="75" />
+  <img src="https://leetcode.com/static/images/badges/dcc-2024-11.png" width="75" height="75" />
+  <img src="https://leetcode.com/static/images/badges/dcc-2024-12.png" width="75" height="75" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" width="75" height="75" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-lg.png" width="75" height="75" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-200-lg.png" width="75" height="75" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/lg365.png" width="75" height="75" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-lg.png" width="75" height="75" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/lg500.png" width="75" height="75" />
+</p>
 
+<h4>2025 year</h4>
+<p align="left">
+  <img src="https://leetcode.com/static/images/badges/dcc-2025-1.png" width="75" height="75" />
+  <img src="https://leetcode.com/static/images/badges/dcc-2025-2.png" width="75" height="75" />
+  <img src="https://leetcode.com/static/images/badges/dcc-2025-3.png" width="75" height="75" />
+  <img src="https://leetcode.com/static/images/badges/dcc-2025-4.png" width="75" height="75" />
+  <img src="https://leetcode.com/static/images/badges/dcc-2025-5.png" width="75" height="75" />
+  <img src="https://leetcode.com/static/images/badges/dcc-2025-6.png" width="75" height="75" />
+  <img src="https://leetcode.com/static/images/badges/dcc-2025-7.png" width="75" height="75" />
+  <img src="https://leetcode.com/static/images/badges/dcc-2025-8.png" width="75" height="75" />
+  <img src="https://leetcode.com/static/images/badges/dcc-2025-9.png" width="75" height="75" />
+  <img src="https://leetcode.com/static/images/badges/dcc-2025-10.png" width="75" height="75" />
+  <img src="https://leetcode.com/static/images/badges/dcc-2025-11.png" width="75" height="75" />
+  <img src="https://leetcode.com/static/images/badges/dcc-2025-12.png" width="75" height="75" />
+  <img src="https://assets.leetcode.com/static_assets/others/lg2550.png" width="75" height="75" />
+  <img src="https://assets.leetcode.com/static_assets/others/lg25100.png" width="75" height="75" />
+  <img src="https://assets.leetcode.com/static_assets/others/lg200.png" width="75" height="75" />
+</p>
 
-#### 2025 year
-<div align="left">
-<img src="https://leetcode.com/static/images/badges/dcc-2025-1.png" width="75" height="75" />
-<img src="https://leetcode.com/static/images/badges/dcc-2025-2.png" width="75" height="75" />
-<img src="https://leetcode.com/static/images/badges/dcc-2025-3.png" width="75" height="75" />
-<img src="https://leetcode.com/static/images/badges/dcc-2025-4.png" width="75" height="75" />
-<img src="https://leetcode.com/static/images/badges/dcc-2025-5.png" width="75" height="75" />
-<img src="https://leetcode.com/static/images/badges/dcc-2025-6.png" width="75" height="75" />
-<img src="https://leetcode.com/static/images/badges/dcc-2025-7.png" width="75" height="75" />
-<img src="https://leetcode.com/static/images/badges/dcc-2025-8.png" width="75" height="75" />
-<img src="https://leetcode.com/static/images/badges/dcc-2025-9.png" width="75" height="75" />
-<img src="https://leetcode.com/static/images/badges/dcc-2025-10.png" width="75" height="75" />
-<img src="https://leetcode.com/static/images/badges/dcc-2025-11.png" width="75" height="75" />
-<img src="https://leetcode.com/static/images/badges/dcc-2025-12.png" width="75" height="75" />
-<img src="https://assets.leetcode.com/static_assets/others/lg2550.png" width="75" height="75" />
-<img src="https://assets.leetcode.com/static_assets/others/lg25100.png" width="75" height="75" />
-<img src="https://assets.leetcode.com/static_assets/others/lg200.png" width="75" height="75" />
-</div>
+<h4>Submission Days</h4>
+<p align="left">
+  <img src="https://assets.leetcode.com/static_assets/marketing/lg1k.png" width="75" height="75" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/lg500.png" width="75" height="75" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/lg365.png" width="75" height="75" />
+</p>
 
-#### Submission Days
-<div align="left">
-<img src="https://assets.leetcode.com/static_assets/marketing/lg1k.png" width="75" height="75" />
-<img src="https://assets.leetcode.com/static_assets/marketing/lg500.png" width="75" height="75" />
-<img src="https://assets.leetcode.com/static_assets/marketing/lg365.png" width="75" height="75" />
-</div>
+<h4>2026 year</h4>
+<p align="left">
+  <img src="https://leetcode.com/static/images/badges/dcc-2026-1.png" width="75" height="75" />
+  <img src="https://leetcode.com/static/images/badges/dcc-2026-2.png" width="75" height="75" />
+  <img src="https://leetcode.com/static/images/badges/dcc-2026-3.png" width="75" height="75" />
+</p>
 
-
-
-#### 2026 year
-<div align="left">
-<img src="https://leetcode.com/static/images/badges/dcc-2026-1.png" width="75" height="75" />
-<img src="https://leetcode.com/static/images/badges/dcc-2026-2.png" width="75" height="75" />
-<img src="https://leetcode.com/static/images/badges/dcc-2026-3.png" width="75" height="75" />
-</div>
- 
 <br />
 <br />
 
