@@ -234,7 +234,7 @@ Go in production, Rust, strict typing, functional programming ideas, distributed
 
 ## About my Github:
 
-<table>
+<table width="100%" align="center">
   <tr>
     <td colspan="2" align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=speccy-rom&theme=nord_bright" width="100%" alt="GitHub profile details" />
