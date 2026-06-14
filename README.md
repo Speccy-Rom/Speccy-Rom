@@ -8,8 +8,8 @@
 ### I'm a Software Engineer Golang && Python / Back-end Developer !!!
 
 - 🔭 I’m currently working on something cool.
-- 🌱 I have been working with Python for more than 7+ years.
-- 🌱 I have been working with Golang for more than 5+ years.
+- 🌱 I have been working with Python for more than 10+ years.
+- 🌱 I have been working with Golang for more than 6+ years.
 - 🤔 I have been developing web apps on fastapi/aiohttp/django/flask for more than 5+ years.
 - 👯 I'm learning new things everyday.
 - 📫 How to reach me: mail me @ Speccy.Rom@gmail.com
