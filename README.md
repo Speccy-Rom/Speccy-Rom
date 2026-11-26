@@ -176,6 +176,11 @@ Go in production, Rust, strict typing, functional programming ideas, distributed
 <td><img src="https://leetcode.com/static/images/badges/dcc-2026-3.png" width="75" height="75" /></td>
 <td><img src="https://leetcode.com/static/images/badges/dcc-2026-4.png" width="75" height="75" /></td>
 <td><img src="https://leetcode.com/static/images/badges/dcc-2026-5.png" width="75" height="75" /></td>
+<td><img src="https://leetcode.com/static/images/badges/dcc-2026-6.png" width="75" height="75" /></td>
+<td><img src="https://leetcode.com/static/images/badges/dcc-2026-7.png" width="75" height="75" /></td>
+<td><img src="https://leetcode.com/static/images/badges/dcc-2026-8.png" width="75" height="75" /></td>
+<td><img src="https://leetcode.com/static/images/badges/dcc-2026-9.png" width="75" height="75" /></td>
+<td><img src="https://leetcode.com/static/images/badges/dcc-2026-10.png" width="75" height="75" /></td>
 </tr></table>
 
 <br />
